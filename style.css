@@ -1,0 +1,73 @@
+p{
+    font-family: Arial, Helvetica, sans-serif; font-size: 20px;
+    }
+    
+    h1{
+        color: black;  
+    }
+    
+    h2{
+        color: black;
+        font-family: Arial, Helvetica, sans-serif; font-size: 30px;
+    }
+
+    h1{
+        font-family: 'Noto Sans', sans-serif; font-size: 40px;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    a {
+        width: 375px;
+        background-color: #ffffff;
+        text-align: center;
+        color: #070707;
+        padding: 10px;
+        border-radius: 2px;
+        text-decoration: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .guia { 
+        width: 370px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+   
+    input, button {
+        width: 100px;
+        height: 70px;
+        font-size: 1.2rem;
+        padding: 0 20px;
+        border: 5px;
+    }
+
+    input {
+        width: 200px;
+        height: 70px;
+    }
+
+    button{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .argola {
+        width: 375px;
+        height: 70px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+    
+   
